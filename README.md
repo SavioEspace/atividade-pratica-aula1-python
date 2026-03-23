@@ -14,3 +14,6 @@ Resolução da atividade prática utilizando Python e análise de dados.
 
 ## Arquivo principal
 atividade_pratica_aula1_python_preenchida.ipynb
+
+## Conclusão
+A análise permitiu identificar padrões de vendas, inconsistências nos dados e oportunidades de melhoria na operação, demonstrando a importância da análise exploratória para tomada de decisão.
