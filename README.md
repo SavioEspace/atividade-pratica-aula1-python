@@ -64,37 +64,166 @@ Realizar a limpeza completa de uma base de dados bruta, garantindo qualidade par
 
 ---
 
-# 🏁 Conclusão
-
-As atividades demonstram a evolução do processo analítico:
-
-1. **Explorar os dados** (Aula 1)  
-2. **Preparar e analisar** (Aula 2)  
-3. **Garantir qualidade e confiabilidade** (Aula 3)  
-
-A qualidade da análise depende diretamente da qualidade dos dados, e todo o processo reforça a importância da limpeza como **fundação invisível** da análise.
 
 ---
 
-# 🛠️ Tecnologias utilizadas
+# 🚀 Aula 1 — Análise Exploratória
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+### 📌 Objetivo
+Compreender a estrutura dos dados e extrair primeiros insights.
+
+### 🔍 Atividades
+- Leitura do dataset
+- Identificação de colunas e tipos
+- Verificação de valores nulos
+- Cálculo de KPIs
+- Análise por canal, produto e estado
+
+### 🧠 Aprendizado
+Base para qualquer análise: entender os dados antes de usá-los.
 
 ---
 
-# 📁 Estrutura do Projeto
-📁 atividades-pandas
-├── aula1/
-│ └── atividade_pratica_aula1_python_preenchida.ipynb
-│
-├── aula2/
-│ └── atividade_pratica_aula2_dataviz_preenchida.ipynb
-│
-├── aula3/
-│ ├── atividade_pratica_aula3_limpeza_preenchida.ipynb
-│ └── vendas_brasil_aula3_clean.csv
+# 📊 Aula 2 — Preparação e Análise
+
+### 📌 Objetivo
+Transformar dados brutos em informações úteis.
+
+### 🔍 Atividades
+- Conversão de tipos
+- Limpeza de inconsistências
+- Filtros e recortes
+- Rankings (Top N)
+- Análise temporal
+
+### 🧠 Aprendizado
+Dados inconsistentes geram decisões erradas.
+
+---
+
+# 🧹 Aula 3 — Limpeza de Dados
+
+### 📌 Objetivo
+Garantir qualidade e confiabilidade da base.
+
+### 🔍 Atividades
+- Tratamento de nulos
+- Remoção de duplicidades
+- Padronização de categorias
+- Criação de variáveis derivadas
+- Exportação da base limpa
+
+### 🧠 Aprendizado
+A limpeza é a **fundação invisível** da análise.
+
+---
+
+# 🎓 Aula 4 — Análise Educacional (ENEM)
+
+### 📌 Objetivo
+Analisar desempenho educacional com dados simulados.
+
+### 🔍 Atividades
+- Análise por tipo de escola
+- Comparação entre estados
+- Ranking de estudantes
+- Relação renda x desempenho
+
+### 🧠 Aprendizado
+Dados revelam desigualdades sociais e educacionais.
+
+---
+
+# 📈 Aula 5 — KPIs
+
+### 📌 Objetivo
+Medir desempenho com indicadores-chave.
+
+### 🔍 Atividades
+- Receita total
+- Lucro total
+- Ticket médio
+
+### 🧠 Aprendizado
+KPIs resumem o negócio em números claros.
+
+---
+
+# 📊 Aula 6 — Visualização (Matplotlib)
+
+### 📌 Objetivo
+Transformar dados em gráficos.
+
+### 🔍 Atividades
+- Gráfico de receita por estado
+- Visualização básica
+
+### 🧠 Aprendizado
+Gráficos facilitam entendimento rápido.
+
+---
+
+# 📊 Aula 7 — Visualização (Seaborn)
+
+### 📌 Objetivo
+Criar visualizações mais avançadas.
+
+### 🔍 Atividades
+- Gráficos mais estilizados
+- Comparações visuais
+
+### 🧠 Aprendizado
+Visual importa na comunicação de dados.
+
+---
+
+# 🌐 Aula 8 — Plotly (Interativo)
+
+### 📌 Objetivo
+Criar dashboards interativos.
+
+### 🔍 Atividades
+- Gráfico interativo por estado
+- Navegação visual
+
+### 🧠 Aprendizado
+Interatividade aumenta valor da análise.
+
+---
+
+# 📊 Aula 9 — Análise Completa
+
+### 📌 Objetivo
+Unir tudo: limpeza + análise + visualização.
+
+### 🔍 Atividades
+- Uso completo do pipeline de dados
+- Integração de técnicas
+
+### 🧠 Aprendizado
+Análise de dados é um processo completo, não isolado.
+
+---
+
+# 🧠 Principais Competências Demonstradas
+
+- Análise exploratória de dados (EDA)
+- Limpeza e preparação de dados
+- Criação de KPIs
+- Agrupamentos e rankings
+- Visualização com Matplotlib e Plotly
+- Interpretação de dados
+- Pensamento analítico aplicado
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Plotly  
+
 
 
